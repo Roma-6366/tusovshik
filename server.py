@@ -12,7 +12,7 @@ app = Flask(__name__)
 # ==========================================
 
 TOKEN = os.environ.get("VK_TOKEN")
-CONFIRMATION = "a26c27d2"
+CONFIRMATION = "3499b39b"
 
 PLAYERS_FILE = "players.json"
 
