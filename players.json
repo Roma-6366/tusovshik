@@ -1,0 +1,62 @@
+{
+    "642158635": {
+        "level": 1,
+        "xp": 20,
+        "coins": 40,
+        "wins": 1,
+        "games": 10,
+        "inventory": {
+            "luck": 0,
+            "chest": 0,
+            "vip": 0
+        }
+    },
+    "1112720021": {
+        "level": 1,
+        "xp": 0,
+        "coins": 100,
+        "wins": 0,
+        "games": 6,
+        "inventory": {
+            "luck": 0,
+            "chest": 0,
+            "vip": 0
+        }
+    },
+    "626241417": {
+        "level": 1,
+        "xp": 0,
+        "coins": 100,
+        "wins": 0,
+        "games": 2,
+        "inventory": {
+            "luck": 0,
+            "chest": 0,
+            "vip": 0
+        }
+    },
+    "-174105461": {
+        "level": 1,
+        "xp": 0,
+        "coins": 100,
+        "wins": 0,
+        "games": 0,
+        "inventory": {
+            "luck": 0,
+            "chest": 0,
+            "vip": 0
+        }
+    },
+    "200001045252": {
+        "level": 1,
+        "xp": 0,
+        "coins": 100,
+        "wins": 0,
+        "games": 0,
+        "inventory": {
+            "luck": 0,
+            "chest": 0,
+            "vip": 0
+        }
+    }
+}
