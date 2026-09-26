@@ -11,7 +11,7 @@ app = Flask(__name__)
 # НАСТРОЙКИ
 # ==========================================
 
-TOKEN = "Твой-токен"
+TOKEN = os.environ.get("VK_TOKEN")
 CONFIRMATION = "a26c27d2"
 
 PLAYERS_FILE = "players.json"
